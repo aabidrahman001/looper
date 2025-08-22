@@ -11,10 +11,10 @@ This project contains a number of bash scripts that will allow users to extend t
 
 - Make sure to add the following permission to the following scripts:
 
-- chmod +x task.sh
-- chmod +x check.sh
-- chmod +x autorun.sh
-- chmod +x uninstall-autorun.sh
+- `chmod +x task.sh`
+- `chmod +x check.sh`
+- `chmod +x autorun.sh`
+- `chmod +x uninstall-autorun.sh`
 
 And you are good to go!
 
